@@ -1,0 +1,2 @@
+# Python_PyQt6_26Dec2023_calculatore
+Python_PyQt6_26Dec2023_calculatore
